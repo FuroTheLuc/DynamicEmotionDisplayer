@@ -1,8 +1,8 @@
 # Project Title
 
-[![GitHub stars](https://img.shields.io/github/stars/your_username/your_repo.svg?style=flat&logo=github&color=yellow)](https://github.com/your_username/your_repo/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/your_username/your_repo.svg?style=flat&logo=github&color=green)](https://github.com/your_username/your_repo/network)
-[![GitHub issues](https://img.shields.io/github/issues/your_username/your_repo.svg?style=flat&logo=github)](https://github.com/your_username/your_repo/issues)
+[![GitHub stars](https://img.shields.io/github/stars/FuroTheLuc/DynamicEmotionDisplayer.svg?style=flat&logo=github&color=yellow)](https://github.com/your_username/your_repo/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/FuroTheLuc/DynamicEmotionDisplayer.svg?style=flat&logo=github&color=green)](https://github.com/your_username/your_repo/network)
+[![GitHub issues](https://img.shields.io/github/issues/FuroTheLuc/DynamicEmotionDisplayer.svg?style=flat&logo=github)](https://github.com/your_username/your_repo/issues)
 
 ## Description
 
