@@ -30,7 +30,10 @@ Inside /assets/scenes will be the 2 main scenes. "SampleScene" Will be the Scene
 
 ## Usage
 
-Provide examples and usage of your project.
+### Emotion Setup
+  <iframe width="560" height="315" src="https://youtu.be/VEhXCct7XsQ" frameborder="0" allowfullscreen></iframe>
+
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
