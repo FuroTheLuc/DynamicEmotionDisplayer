@@ -16,8 +16,7 @@ The DynamicEmotionDisplayer is a software that combines networking and VR-Contro
 ## Table of Contents
 
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
+- [Usage](#usage
 - [License](#license)
 
 ## Installation
