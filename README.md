@@ -29,6 +29,10 @@ Inside /assets/scenes will be the 2 main scenes. "SampleScene" Will be the Scene
 - Follow the tutorial on the setup
 
 ## Usage
+
+#### For General Support (or if you're too lazy to follow tutorials) Join my [Discord Server](https://discord.gg/tEgeSEWzQc) for Support!
+
+
 ### How to set up SET Type Emotions
 [![YouTube Video](https://img.youtube.com/vi/VEhXCct7XsQ/0.jpg)](https://www.youtube.com/watch?v=VEhXCct7XsQ)
 
