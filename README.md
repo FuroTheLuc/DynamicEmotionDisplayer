@@ -16,7 +16,7 @@ The DynamicEmotionDisplayer is a software that combines networking and VR-Contro
 ## Table of Contents
 
 - [Installation](#installation)
-- [Usage](#usage
+- [Usage](#usage)
 - [License](#license)
 
 ## Installation
@@ -29,18 +29,6 @@ Inside /assets/scenes will be the 2 main scenes. "SampleScene" Will be the Scene
 ## Usage
 
 Provide examples and usage of your project.
-
-## Contributing
-
-If you want to contribute, please follow these steps.
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature/improvement`).
-3. Make your changes.
-4. Commit your changes (`git commit -am 'Add some feature'`).
-5. Push to the branch (`git push origin feature/improvement`).
-6. Create a new Pull Request.
-
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
