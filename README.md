@@ -1,4 +1,4 @@
-# Project Title
+# DynamicEmotionDisplayer
 
 [![GitHub stars](https://img.shields.io/github/stars/FuroTheLuc/DynamicEmotionDisplayer.svg?style=flat&logo=github&color=yellow)](https://github.com/your_username/your_repo/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/FuroTheLuc/DynamicEmotionDisplayer.svg?style=flat&logo=github&color=green)](https://github.com/your_username/your_repo/network)
