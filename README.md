@@ -13,6 +13,8 @@ The DynamicEmotionDisplayer is a software that combines networking and VR-Contro
  - An oculus Quest/Ques 2
  - A third mobile device or any device able to create a local wifi hotspot for all subsidiary devices to connect to. (**the hotspot DOES NOT require internet access**!!)
 
+ - Unity 2022 (Including Android SDK Packages)
+
 ## Table of Contents
 
 - [Installation](#installation)
