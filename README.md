@@ -31,7 +31,8 @@ Inside /assets/scenes will be the 2 main scenes. "SampleScene" Will be the Scene
 ## Usage
 
 ### Emotion Setup
-  <iframe width="560" height="315" src="https://youtu.be/VEhXCct7XsQ" frameborder="0" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/VEhXCct7XsQ?si=RvdEPv96YJ0df-ma" frameborder="0" allowfullscreen></iframe>
+
 
 
 ## License
