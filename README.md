@@ -33,11 +33,6 @@ Inside /assets/scenes will be the 2 main scenes. "SampleScene" Will be the Scene
 [![YouTube Video](https://img.youtube.com/vi/VEhXCct7XsQ/0.jpg)](https://www.youtube.com/watch?v=VEhXCct7XsQ)
 
 
-
-### Emotion Setup
-
-
-
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
